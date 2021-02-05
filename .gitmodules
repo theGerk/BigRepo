@@ -1,0 +1,3 @@
+[submodule "InnerRepo"]
+	path = InnerRepo
+	url = git@github.com:theGerk/InnerRepo.git
